@@ -15,3 +15,8 @@ A proposta desse projeto é a análise de um dataset escolhido pelo grupo. O dat
 - analise_descritiva - Copia.ipynb: análise descritivados dados com implementação de Random Forest
 
 ## Explicando os arquivos:
+
+- rascunho.ipynb: Arquivo que foi usado como rascunho para a construção dos nossos modelos. Nele é possível encontrar códigos que serviram de base e rascunho para o random forest, random forest regression e simple linear regression. O código foi passado a limpo para o jogos_steam.
+
+- jogos_steam.ipynb: Arquivo com o projeto finalizado. Os códigos desse arquivo foram revisados e passados a limpo.
+- steam-store-games: Pasta que contém os dataframes utilizados no projeto

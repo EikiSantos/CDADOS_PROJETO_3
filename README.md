@@ -15,4 +15,4 @@ A proposta desse projeto é a análise de um dataset escolhido pelo grupo. O dat
 
 - jogos_steam.ipynb: Arquivo com o projeto finalizado. Os códigos desse arquivo foram revisados e passados a limpo.
 
-- steam-store-games: Pasta que contém o dataframe utilizado nos arquivos: <font color="red"> jogos_steam.ipynb e rascunho.ipynb </font>. (https://www.kaggle.com/nikdavis/steam-store-games)
+- steam-store-games: Pasta que contém o dataframe utilizado nos arquivos: jogos_steam.ipynb e rascunho.ipynb. (https://www.kaggle.com/nikdavis/steam-store-games)

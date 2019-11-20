@@ -7,7 +7,7 @@
 - Beatriz Muniz
 
 ## Descrição: 
-A proposta desse projeto é a análise de um dataset escolhido pelo grupo. O dataset escolhido foi um sobre os jogos disponíveis na plataforma de distribuição de games Steam. Com os dados recolhidos, o grupo fará uma previsão de quão positivo os ratings de um jogo será baseado em atributos como genêro, tags, tempo médio que os usuários o jogam e preço.
+A proposta desse projeto é a análise de um dataset escolhido pelo grupo. O dataset escolhido foi um sobre os jogos disponíveis na plataforma de distribuição de games Steam. Com os dados recolhidos, o grupo, através de regressões lineares, fará uma previsão de quão positivo os ratings de um jogo será baseado em atributos como genêro, tags, tempo médio que os usuários o jogam e preço.
 
 ## Explicando os arquivos:
 
